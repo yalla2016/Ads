@@ -1,5 +1,4 @@
-# Ads
-	1.	AdBlock DNS Filters：由 217heidai 维护的去广告合并规则，每 8 小时更新一次，整合了多个规则源。
+# Ads AdGuard Home&Pi-hole 去广告规则源。
 	•	订阅链接：https://raw.githubusercontent.com/217heidai/adblockfilters/main/filters/adblock.txt
 	2.	anti-AD：致力于成为中文区高命中率的广告过滤列表，适用于 AdGuard Home、dnsmasq、Surge、Pi-Hole、Clash、smartdns、sing-box 等网络组件。  ￼
 	•	订阅链接：https://anti-ad.net/easylist.txt ￼
